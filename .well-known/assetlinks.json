@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.personalai.walletconnecttrial",
+      "sha256_cert_fingerprints": [
+        "A4:88:20:08:F9:03:DD:5D:08:E8:3A:C5:0E:2B:B6:40:BF:41:FC:E3:92:87:7B:B9:1D:8F:2C:15:69:BB:7F:A6"
+      ]
+    }
+  }
+]
